@@ -1,0 +1,13 @@
+streamlit>=1.40,<2
+pandas>=2.0
+numpy
+scikit-learn>=1.3
+openpyxl
+plotly>=5.18
+python-dotenv
+# LLM (optional - without a key the bot uses safe template answers)
+anthropic
+openai
+# Voice / accessibility
+edge-tts>=6.1
+SpeechRecognition>=3.10
